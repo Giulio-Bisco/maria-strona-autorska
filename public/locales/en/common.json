@@ -1,0 +1,11 @@
+{
+  "nav": {
+    "books": "Books",
+    "reviews": "Reviews",
+    "about": "About"
+  },
+  "hero": {
+    "title": "Maria Magdalena Syryńska",
+    "subtitle": "Polish author"
+  }
+}

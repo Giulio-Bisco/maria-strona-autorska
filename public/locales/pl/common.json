@@ -1,0 +1,11 @@
+{
+  "nav": {
+    "books": "Książki",
+    "reviews": "Recenzje",
+    "about": "O mnie"
+  },
+  "hero": {
+    "title": "Maria Magdalena Syryńska",
+    "subtitle": "Polska autorka"
+  }
+}
