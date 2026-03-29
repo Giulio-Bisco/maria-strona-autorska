@@ -14,7 +14,7 @@ export default function LanguageToggle() {
 
   return (
     <button onClick={toggle}>
-      {isPolish ? 'EN' : 'PL'}
+      {isPolish ? 'PL' : 'EN'}
     </button>
   );
 }

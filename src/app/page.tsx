@@ -1,6 +1,7 @@
 'use client';
 
 import LanguageToggle from "@/components/LanguageToggle";
+import Title from "@/components/Title";
 import { useTranslation } from "react-i18next";
 
 export default function Home() {
@@ -9,8 +10,9 @@ export default function Home() {
   return (
     <main>
       <LanguageToggle />
-      <h1>{t('hero.title')}</h1>
-      <p>{t('hero.subtitle')}</p>
+      <div className="min-h-screen flex items-center justify-center">
+        <Title />
+      </div>
     </main>
   )
 }

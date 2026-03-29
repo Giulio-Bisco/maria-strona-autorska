@@ -1,15 +1,33 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+}
+
+@layer utilities {
+  .font-island_moments {
+    font-family: var(--font-island_moments);
+  }
+
+  .font-jersey15 {
+    font-family: var(--font-jersey15);
+  }
+
+  .font-jersey20 {
+    font-family: var(--font-jersey20);
+  }
+
+  .font-jersey25 {
+    font-family: var(--font-jersey25);
+  }
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -20,7 +38,15 @@
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image: url("/images/background-image.png");
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
 }
