@@ -22,7 +22,7 @@ export default function SocialBubble({ label, href, width = 80, height = 80 }: S
         fill
         className="object-contain"
       />
-      <span className="relative z-10 font-jersey20 text-white text-sm">
+      <span className="relative -top-1 font-jersey20 text-sm">
         {label}
       </span>
     </a>

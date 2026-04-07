@@ -16,21 +16,21 @@ export default function Navbar() {
       <div className="flex items-center gap-4">
         <LanguageToggle />
 
-        <SocialBubble 
-          href="https://instagram.com/themariamagdalena_autorka/" 
-          label="Instagram" 
+        <SocialBubble
+          href="https://instagram.com/themariamagdalena_autorka/"
+          label="Instagram"
         />
-        <SocialBubble 
-          href="https://instagram.com/themariamagdalena_autorka/" 
-          label="TikTok" 
+        <SocialBubble
+          href="https://instagram.com/themariamagdalena_autorka/"
+          label="TikTok"
         />
-        <SocialBubble 
-          href="https://instagram.com/themariamagdalena_autorka/" 
-          label="Wattpad" 
+        <SocialBubble
+          href="https://instagram.com/themariamagdalena_autorka/"
+          label="Wattpad"
         />
-        <SocialBubble 
-          href="https://instagram.com/themariamagdalena_autorka/" 
-          label="Empik" 
+        <SocialBubble
+          href="https://instagram.com/themariamagdalena_autorka/"
+          label="Empik"
         />
       </div>
     </nav>
