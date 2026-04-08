@@ -7,7 +7,7 @@ interface SocialBubbleProps {
   height?: number;
 }
 
-export default function SocialBubble({ label, href, width = 80, height = 80 }: SocialBubbleProps) {
+export default function SocialBubble({ label, href, width = 100, height = 100 }: SocialBubbleProps) {
   return (
     <a
       href={href}
@@ -22,7 +22,7 @@ export default function SocialBubble({ label, href, width = 80, height = 80 }: S
         fill
         className="object-contain"
       />
-      <span className="relative -top-1 font-jersey20 text-sm">
+      <span className="relative -top-1 font-jersey20 text-lg">
         {label}
       </span>
     </a>

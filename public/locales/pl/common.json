@@ -1,9 +1,41 @@
 {
-  "nav": {
+  "navbar": {
     "title": "Maria M. Syryńska strona autorska"
   },
   "hero": {
     "title": "MARIA MAGDALENA SYRYŃSKA",
     "subtitle": "“Patrz przez szybę, a nie na szybę”"
+  },
+  "books": {
+    "dziedzic-klamstwa": {
+      "title": "Dziedzic kłamstwa",
+      "subtitle": "Diology",
+      "description": "Velvicia nie żyje. Została zamordowana wraz z matką przez Edwarda Withmoore’a w ramach prezentacji siły. Dwadzieścia lat później ten sam człowiek planuje porwać jej bratanicę Maybeth, prawowitą następczynię arrayskiego tronu, aby zdobyć tereny, którymi włada. Wykorzystuje do tego swego syna Alexandra. Plan jest prosty, ale wymaga od księcia zbliżenia się do Maybeth. Książę ostatecznie decyduje, że nie pozwoli, by jego ojciec wykorzystał dziewczynę w tak okrutny sposób, i rozpoczyna podwójną grę. Resztka jego człowieczeństwa wyłania się zza kurtyny strachu i bezwzględności. Alexander postanawia położyć kres tyrańskim zapędom ojca.",
+      "bubbleText": "A debut that shook me to my core."
+    },
+    "stalowe-roze": {
+      "title": "Stalowe róże",
+      "subtitle": "",
+      "description": "Stalowe róże nigdy nie stracą swojej doskonałości. Ich płatki są jednak zimne i ostre. Przypominają, że pozory mogą mylić i że piękno też potrafi śmiertelnie zranić. Mythlen postanawia uciec od świata, który ją stworzył, a który teraz może ją unicestwić. Narzeczonego porzuca na ślubnym kobiercu i w drodze ku swojej wolności szuka schronienia w lesie. Trafia tam jednak pod dach dwóch tajemniczych mężczyzn. A według znanych jej wierzeń znajomość z nimi może się okazać skrajnie niebezpieczna i sprowadzić na nią nieszczęście. Bo skoro wszyscy od zawsze tak mówią, to musi być prawda! Czyż nie?! Czy Mythlen uciekła z jednej pułapki, aby wpaść w drugą? Jaką cenę trzeba zapłacić za prawdziwą wolność?",
+      "bubbleText": "Impossible to put down."
+    },
+    "ostatni-wiersz-hrabiego-dariana": {
+      "title": "Ostatni wiersz hrabiego Dariana",
+      "subtitle": "",
+      "description": "Do akademii przepełnionej brzmieniem instrumentów wkradła się cisza. Eliana po utracie rodziny i domu odnalazła schronienie w szkole muzycznej, której właścicielem był o kilka lat starszy hrabia Darian. Od samego początku był dla dziewczyny wzorem, podążała za jego pasjami. Z wiekiem jej podziw i szacunek zaczęły przeistaczać się w rozbrzmiewające coraz donośniej uczucie. W dniu osiemnastych urodzin Eliany, hrabia Darian znika nagle, nim dziewczyna zdąży chociażby pomyśleć o wyznaniu mu swej sympatii. Mija rok, w trakcie którego Eliana dostaje od niego tylko jeden list - list z obietnicą, którą młody mężczyzna zamierza spełnić.",
+      "bubbleText": "A compelling read."
+    },
+    "oliver": {
+      "title": "Oliver",
+      "subtitle": "",
+      "description": "Oliver Alrado zawsze był wierny powierzonym mu obowiązkom. Zawsze słuchał przełożonych i nigdy nie wątpił w sens wykonywanego zadania. Zmieniło się to jednak po misji, w której to przyszło mu rozstrzelać śmiertelnie niebezpiecznych zarażonych - wtedy, gdy coś, co brał do tej pory za niepodważalne fakty, okazało się ułudą. A sprzeciw nigdy nie był wskazany.",
+      "bubbleText": "A compelling read."
+    },
+    "obsesja-zlotego-krolestwa": {
+      "title": "Obsesja zlotego krolestwa",
+      "subtitle": "",
+      "description": "W sercu Eutheemii od zawsze kwitła nienawiść. Nienawiść do mężczyzny, który ją zniewolił, jak i do tego, który kilka lat temu rozpętał burzę na kontynencie. Nienawiść do ludzi, będących okazem głupoty i zaprzedania.Zamknięta pod fasadą różanej rezydencji układa w głowie plan. Kradnie. Aż w końcu zabija swego pana i zbiega na statek, który ma zabrać ją do Paerletanu - Złotego Królestwa. Dzieje się jednak inaczej niż założyła. Królestwo wcale nie jest ze złota. Życie wcale nie jest łatwiejsze, kiedy nie zna się języka. A korytarze pod Teatrem Trzydziestu Nocy są niemal tak ciemne jak piwnica, w której trzymano ją przez wiele lat.Uwikłana przypadkiem w zabójstwo kogoś więcej niż tylko człowieka trzymającego niewolników, trafia w miejsce, którego nie wyobrażałaby sobie nawet w najśmielszych myślach. Otoczona nieznanymi ludźmi jest zmuszona z nimi współpracować, aby w końcu zostać postawioną przed ostatecznym zadaniem - wielką grą, w której stawką będzie coś więcej niż tylko wolność. 'Gdy światła gasną, a szepty przeradzają się w krzyki, tylko wytrwali pozostaną bez winy.'",
+      "bubbleText": "A compelling read."
+    }
   }
 }

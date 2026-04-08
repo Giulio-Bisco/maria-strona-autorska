@@ -1,9 +1,23 @@
 {
-  "nav": {
+  "navbar": {
     "title": "Maria M. Syryńska author's website"
   },
   "hero": {
     "title": "MARIA MAGDALENA SYRYŃSKA",
     "subtitle": "Polish author"
+  },
+  "books": {
+    "dziedzic-klamstwa": {
+      "title": "Whispers in the Dark",
+      "subtitle": "Duology",
+      "description": "A haunting story about...",
+      "bubbleText": "A debut that shook me to my core."
+    },
+    "stalowe-roze": {
+      "title": "Roses of steel",
+      "subtitle": "",
+      "description": "In a world where memory is currency...",
+      "bubbleText": "Impossible to put down."
+    }
   }
 }

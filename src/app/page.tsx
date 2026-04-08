@@ -1,6 +1,6 @@
 'use client';
 
-import LanguageToggle from "@/components/LanguageToggle";
+import Books from "@/components/Books";
 import Navbar from "@/components/Navbar";
 import Title from "@/components/Title";
 import { useTranslation } from "react-i18next";
@@ -14,6 +14,7 @@ export default function Home() {
       <div className="min-h-screen flex items-center justify-center">
         <Title />
       </div>
+      <Books />
     </main>
   )
 }

@@ -9,7 +9,7 @@ export default function Navbar() {
 
   return (
     <nav className="fixed top-0 left-0 w-full z-50 flex items-center justify-between px-6 py-4 md:px-12">
-      <span className="font-island_moments text-white text-xl tracking-wide">
+      <span className="font-island_moments text-white text-3xl tracking-wide">
         {t('navbar.title')}
       </span>
 
